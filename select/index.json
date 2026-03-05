@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Cookie",
+  "base_artist": "wotaku",
+  "createdAt": "2026-03-05T06:35:30.125953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cookie Thumper!",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/01_Cookie_Thumper!_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "problem! (feat. COOKIE.)",
+      "artist": "William Crooks",
+      "has_synced": true,
+      "path": "select/02_problem!_(feat._COOKIE.)_William_Crooks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cookie Addiction (Jay & Her)",
+      "artist": "IDK",
+      "has_synced": false,
+      "path": "select/03_Cookie_Addiction_(Jay_&_Her)_IDK.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Butter Cookie (Keep Me There) (Early Demo)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/04_Butter_Cookie_(Keep_Me_There)_(Early_Demo)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "butter cookie (keep me there)",
+      "artist": "fleetwood mac",
+      "has_synced": true,
+      "path": "select/05_butter_cookie_(keep_me_there)_fleetwood_mac.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fortune Cookie Prize",
+      "artist": "Beat Happening",
+      "has_synced": true,
+      "path": "select/06_Fortune_Cookie_Prize_Beat_Happening.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fortune Cookie",
+      "artist": "Honeyblood",
+      "has_synced": true,
+      "path": "select/07_Fortune_Cookie_Honeyblood.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fortune Cookie (Demo)",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/08_Fortune_Cookie_(Demo)_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cookie",
+      "artist": "The Presets",
+      "has_synced": true,
+      "path": "select/09_Cookie_The_Presets.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fortune Cookie",
+      "artist": "Pi’erre Bourne",
+      "has_synced": false,
+      "path": "select/10_Fortune_Cookie_Pi’erre_Bourne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cookie Butter",
+      "artist": "Kim Gordon",
+      "has_synced": false,
+      "path": "select/11_Cookie_Butter_Kim_Gordon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cookie",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/12_Cookie_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Cookie Jar Chant",
+      "artist": "Lisa Loeb",
+      "has_synced": false,
+      "path": "select/13_The_Cookie_Jar_Chant_Lisa_Loeb.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Cookie Jar Song",
+      "artist": "Lisa Loeb",
+      "has_synced": true,
+      "path": "select/14_The_Cookie_Jar_Song_Lisa_Loeb.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Ballad of Cookie McBride",
+      "artist": "Iggy Pop",
+      "has_synced": false,
+      "path": "select/15_The_Ballad_of_Cookie_McBride_Iggy_Pop.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cookie Core",
+      "artist": "Lunachicks",
+      "has_synced": false,
+      "path": "select/16_Cookie_Core_Lunachicks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cookie",
+      "artist": "wotaku",
+      "has_synced": false,
+      "path": "select/pl_01_Cookie_wotaku.txt"
+    }
+  ]
+}
